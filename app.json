@@ -13,13 +13,15 @@
       "backgroundColor": "#303030"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lfgpt.life"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#303030"
-      }
+      },
+      "package": "com.lfgpt.life"
     },
     "web": {
       "bundler": "metro",
